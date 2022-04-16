@@ -2,7 +2,7 @@
 ### PERFIL NOVO!
 
 
-- 🌱 Atualmente estudando Javascript
+- 🌱 Atualmente trabalhando com Python e MySQL
 - 💬 @reflexodinamica (meu perfil de textos)
 - 📫 jacktech.system@gmail.com
 - 😄 https://jackson-burnley.github.io/portfolio/ - Este é o meu portfólio pessoal!
